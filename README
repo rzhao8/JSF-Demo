@@ -1,0 +1,8 @@
+My JSF demo and some useful features
+JSF 2.2 tags library: https://docs.oracle.com/javaee/7/javaserver-faces-2-2/vdldocs-facelets/index.html
+Student_two_for includes:
+	<h:selectOneMenu>
+	<h:selectOneRadio>
+	<h:selectManyCheckbox>
+	Validation: required,validating number range, validating number length,
+				validating regular expressions, custom validation,
